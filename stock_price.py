@@ -185,7 +185,8 @@ def open_stock_price() :
         app_window.title('Stock Price')
         app_window.geometry("520x{}+1390+{}".format(90 + 30 * len(stock_nums), 910 - 25 * len(stock_nums)))
         app_window.resizable(0, 1)
-
+        
+        # 원하는 font를 지정
         label_font1 = '교보 손글씨 2020 박도연'
         label_font_size1 = 12
 
