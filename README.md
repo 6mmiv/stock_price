@@ -13,3 +13,4 @@
 ## file 설명
 * buying_quantity.py가 투자주체별 순매수 가져옴
 * stock_price.py가 나머지
+* backgroud.png와 stock.csv가 있어야 작동
